@@ -1,0 +1,9 @@
+[submodule "deployments"]
+	path = deployments
+	url = https://github.com/x03xd/deployments.git
+[submodule "api"]
+	path = api
+	url = https://github.com/x03xd/api.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/x03xd/ui.git
